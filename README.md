@@ -41,4 +41,4 @@ This bot was fully made by Adib23704 and its using LUA Language with Luvit SDK. 
 Speaking of supporting, You can Star this Repo and Follow me on [Github](https://github.com/Adib23704). Thanks.
 
 ### Join my Discord Server for support and more cool project contents!
-<iframe src="https://discord.com/widget?id=867021231105507328&theme=dark" width="550" height="320" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+https://discord.gg/z3Mk7fbszC
