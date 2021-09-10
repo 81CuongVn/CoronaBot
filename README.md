@@ -15,12 +15,12 @@
 2. Extract the ZIP and go inside the folder and you should see some files named `bot.lua`, `luvit.exe`, `lit.exe` and more..
 3. Open **`config.json`** and replace **`YOUR_BOT_TOKEN`** with your bot token. Get from [here](https://discord.com/developers/applications).
 4. Save **`config.json`** and close it.
-5. Now, Goto your Explorer Search Bar and type **`cmd`**. Example [Click Here](https://cdn.discordapp.com/attachments/547364712308932608/876508184133644328/unknown.png)
-6. After the cmd opens, type **`luvit bot`** to run the bot and you're done!
-7. If you want to change the prefix of the bot then open **`config.json`** and replace **`c!`** and save it to your desired prefix.
-8. Make sure you re-run the bot after changing the prefix.
+5. Now, run **`run.bat`** and enjoy!.
 
-Note: Make sure you **watch** this repo so you can get notified on future updates!
+ - If you want to change the prefix of the bot then open **`config.json`** and replace **`c!`** and save it to your desired prefix.
+ - Make sure you re-run the bot after changing the prefix.
+
+Note: Make sure you **watch** this repo so you can get notified for future updates!
 
 ## Screenshots:
 #### Help Command
